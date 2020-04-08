@@ -43,4 +43,3 @@ public static void main(String[] args) {
     //Math.random, gera um numero aletoria, 
     //usando a formula é possivel escolher o limite de numeros 
   } 
-}
