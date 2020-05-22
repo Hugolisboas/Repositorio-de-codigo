@@ -1,0 +1,9 @@
+Olá meus reclusos confederados. 
+
+Quando vc forem abrir as Interfaces abram primeiro a TelaCadastrarFuncionarios
+lá vcs verão o código da conexão  com o Banco de Dados todo comentado
+o q facilitará o entendimento (ou não) do q foi feito ali.
+Agr pode abrir.
+
+
+XOXO
